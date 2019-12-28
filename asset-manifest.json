@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lindomov_app_2020/static/css/main.10b0ebdd.chunk.css",
-    "main.js": "/lindomov_app_2020/static/js/main.5ac548bf.chunk.js",
-    "main.js.map": "/lindomov_app_2020/static/js/main.5ac548bf.chunk.js.map",
+    "main.js": "/lindomov_app_2020/static/js/main.9f6f0712.chunk.js",
+    "main.js.map": "/lindomov_app_2020/static/js/main.9f6f0712.chunk.js.map",
     "runtime-main.js": "/lindomov_app_2020/static/js/runtime-main.1c056509.js",
     "runtime-main.js.map": "/lindomov_app_2020/static/js/runtime-main.1c056509.js.map",
     "static/js/2.2ad94077.chunk.js": "/lindomov_app_2020/static/js/2.2ad94077.chunk.js",
     "static/js/2.2ad94077.chunk.js.map": "/lindomov_app_2020/static/js/2.2ad94077.chunk.js.map",
     "index.html": "/lindomov_app_2020/index.html",
-    "precache-manifest.bed4b9d2b65f647729e2e2174ac62428.js": "/lindomov_app_2020/precache-manifest.bed4b9d2b65f647729e2e2174ac62428.js",
+    "precache-manifest.8f8552835c6704a71832bbeef608b10b.js": "/lindomov_app_2020/precache-manifest.8f8552835c6704a71832bbeef608b10b.js",
     "service-worker.js": "/lindomov_app_2020/service-worker.js",
     "static/css/main.10b0ebdd.chunk.css.map": "/lindomov_app_2020/static/css/main.10b0ebdd.chunk.css.map",
     "static/js/2.2ad94077.chunk.js.LICENSE": "/lindomov_app_2020/static/js/2.2ad94077.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1c056509.js",
     "static/js/2.2ad94077.chunk.js",
     "static/css/main.10b0ebdd.chunk.css",
-    "static/js/main.5ac548bf.chunk.js"
+    "static/js/main.9f6f0712.chunk.js"
   ]
 }

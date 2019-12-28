@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lindomov_app_2020/precache-manifest.bed4b9d2b65f647729e2e2174ac62428.js"
+  "/lindomov_app_2020/precache-manifest.8f8552835c6704a71832bbeef608b10b.js"
 );
 
 self.addEventListener('message', (event) => {
