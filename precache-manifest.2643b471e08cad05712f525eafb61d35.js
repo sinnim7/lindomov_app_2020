@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d238e407b034c9a29081d03981278ebe",
+    "revision": "200b7f8bb7ecd4b65c400ec3e2f16798",
     "url": "/lindomov_app_2020/index.html"
   },
   {
